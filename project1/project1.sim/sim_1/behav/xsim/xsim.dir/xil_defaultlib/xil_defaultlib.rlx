@@ -1,0 +1,11 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Desktop/Chapter2/Lab3/project1/project1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Desktop/Chapter2/Lab3/project1/project1.srcs/sim_1/new/TB_sev_seg_decoder.sv,1731502671,systemVerilog,,,,TB_sev_seg_decoder,,,,,,,,
+/home/it/Desktop/Chapter2/Lab3/task1/src/counter_n_bit.sv,1731075515,systemVerilog,,/home/it/Desktop/Chapter2/Lab3/task1/src/decoder.sv,,counter_n_bit,,,,,,,,
+/home/it/Desktop/Chapter2/Lab3/task1/src/decoder.sv,1731076163,systemVerilog,,/home/it/Desktop/Chapter2/Lab3/task1/src/sev_seg_controller.sv,,decoder,,,,,,,,
+/home/it/Desktop/Chapter2/Lab3/task1/src/sev_seg.sv,1731446116,systemVerilog,,,,sev_seg_top,,,,,,,,
+/home/it/Desktop/Chapter2/Lab3/task1/src/sev_seg_controller.sv,1731499824,systemVerilog,,/home/it/Desktop/Chapter2/Lab3/task1/src/sev_seg_decoder.sv,,sev_seg_controller,,,,,,,,
+/home/it/Desktop/Chapter2/Lab3/task1/src/sev_seg_decoder.sv,1731507504,systemVerilog,,/home/it/Desktop/Chapter2/Lab3/project1/project1.srcs/sim_1/new/TB_sev_seg_decoder.sv,,seven_seg_decoder,,,,,,,,

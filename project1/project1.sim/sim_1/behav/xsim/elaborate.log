@@ -1,0 +1,14 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/it/vivado/Vivado/Xilinx/Vivado/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto 1392c362dc914ad9a31a9d78b3b1c774 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot TB_sev_seg_decoder_behav xil_defaultlib.TB_sev_seg_decoder xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/it/Desktop/Chapter2/Lab3/task1/src/sev_seg_decoder.sv" Line 1. Module seven_seg_decoder doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.seven_seg_decoder
+Compiling module xil_defaultlib.TB_sev_seg_decoder
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot TB_sev_seg_decoder_behav
