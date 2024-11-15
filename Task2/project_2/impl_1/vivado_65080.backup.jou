@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Nov 14 14:48:06 2024
+# Process ID: 65080
+# Current directory: /home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/impl_1
+# Command line: vivado -log sev_seg_controller.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source sev_seg_controller.tcl -notrace
+# Log file: /home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/impl_1/sev_seg_controller.vdi
+# Journal file: /home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/impl_1/vivado.jou
+#-----------------------------------------------------------
+source sev_seg_controller.tcl -notrace
