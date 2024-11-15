@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../project_2.srcs/sources_1/imports/src/counter_n_bit.sv" \
+"../../../../project_2.srcs/sources_1/imports/src/decoder.sv" \
+"../../../../project_2.srcs/sources_1/imports/new/fourbit_adder.sv" \
+"../../../../project_2.srcs/sources_1/imports/new/fulladder1.sv" \
+"../../../../project_2.srcs/sources_1/imports/new/halfadder.sv" \
+"../../../../project_2.srcs/sources_1/imports/src/sev_seg_controller.sv" \
+"../../../../project_2.srcs/sources_1/imports/src/sev_seg_decoder.sv" \
+"../../../../project_2.srcs/sources_1/imports/project_2/ALU_top.sv" \
+"../../../../project_2.srcs/sources_1/new/ALU.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

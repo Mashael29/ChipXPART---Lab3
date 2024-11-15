@@ -1,0 +1,14 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/new/fourbit_adder.sv,1731583990,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/new/fulladder1.sv,,fourbit_adder,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/new/fulladder1.sv,1731426924,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/new/halfadder.sv,,fulladder1,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/new/halfadder.sv,1731426924,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/src/sev_seg_controller.sv,,halfadder,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/project_2/ALU_top.sv,1731587966,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/new/ALU.sv,,ALU_top,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/src/counter_n_bit.sv,1731075515,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/src/decoder.sv,,counter_n_bit,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/src/decoder.sv,1731076163,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/new/fourbit_adder.sv,,decoder,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/src/sev_seg_controller.sv,1731585850,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/src/sev_seg_decoder.sv,,sev_seg_controller,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/src/sev_seg_decoder.sv,1731585274,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/project_2/ALU_top.sv,,seven_seg_decoder,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/new/ALU.sv,1731583546,systemVerilog,,,,ALU,,,,,,,,

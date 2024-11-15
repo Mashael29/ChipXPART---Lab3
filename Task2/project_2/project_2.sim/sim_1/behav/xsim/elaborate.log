@@ -1,0 +1,23 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/it/Xilinx/Vivado/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto 59864b1360da4cb381fdbeda8a672cdd --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot ALU_top_behav xil_defaultlib.ALU_top xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 4 for port 'A' [/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/project_2/ALU_top.sv:35]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 4 for port 'D' [/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/src/sev_seg_controller.sv:15]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/src/decoder.sv" Line 1. Module decoder(n=3) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/Cx203-Lab3/task2/project_2/project_2.srcs/sources_1/imports/src/counter_n_bit.sv" Line 1. Module counter_n_bit(n=20) doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.halfadder
+Compiling module xil_defaultlib.fulladder1
+Compiling module xil_defaultlib.fourbit_adder
+Compiling module xil_defaultlib.seven_seg_decoder
+Compiling module xil_defaultlib.decoder(n=3)
+Compiling module xil_defaultlib.counter_n_bit(n=20)
+Compiling module xil_defaultlib.sev_seg_controller
+Compiling module xil_defaultlib.ALU_top
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot ALU_top_behav
